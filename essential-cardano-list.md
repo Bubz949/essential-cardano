@@ -119,7 +119,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Venus](https://venus.io/)
 
 ### Governments ###
-- [Ethiopia](https://pmo.gov.et/)
+- [Ethiopia](https://pmo.gov.et/) - [Africa Special video](https://www.youtube.com/watch?v=yRjj662kJsk) 
 - [Wyoming](http://www.wyo.gov/)
 - [Georgia](http://gov.ge/index.php?lang_id=ENG)
 - Mongolia
